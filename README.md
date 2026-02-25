@@ -212,7 +212,6 @@ forge test        # Run integration tests on Base fork
 |--|--|
 | 🌍 Website | [agenbase.xyz](https://agenbase.xyz) |
 | 🐦 X / Twitter | [@Agentbasexyz](https://x.com/Agentbasexyz) |
-| 📖 Docs | [docs.agenbase.tech](https://docs.agenbase.tech) |
 | ⬡ Network | [Base (L2 Ethereum)](https://base.org) |
 
 ---
